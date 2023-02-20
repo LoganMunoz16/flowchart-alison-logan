@@ -1,5 +1,5 @@
 # Creating a Flowchart from a Dependency List
-A work by: Alison Langer and Logan Munoz
+A work by: <a href="https://github.com/Alison003">Alison Langer</a> and Logan Munoz
 
 This project finds the optimal course flow for a major with given constraints. This program will take a list of classes required to complete a major as its input and will produce a course flow of the order the classes should be taken. There are two possibilities for this output. The first is having no constraints, the second having a maximum credit value and a predetermined starting quarter. Based on these constraints, the program will output a different course flow that will allow completion of the major. The animation of the program output will demonstrate the progress of the classes taken towards completing the major. For this project we chose two majors: Computer Science and Exercise Science.
 
